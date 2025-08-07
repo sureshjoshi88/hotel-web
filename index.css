@@ -11,10 +11,6 @@
   min-width: 100% !important;
   height: 85vh;
   background-position: center;
-  
-
-
-
 }
 
 .kanha {
@@ -95,7 +91,6 @@
 .zoom:hover img{
   width: 100%;
   height: 100%;
- 
 }
 .sedow{
   width: 98%;
@@ -120,8 +115,6 @@
 @media (max-width:768px) {
   .dnone {
     display: block;
-    
-    
   } 
   .dnone2 {
     position: sticky;
